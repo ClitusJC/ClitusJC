@@ -22,4 +22,4 @@
 
 ### 📫 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%23006DAE?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/clitusjc)  
-[![Email](https://img.shields.io/badge/Email-%2331A24C?style=for-the-badge&logo=gmail&logoColor=white)](mailto:clituscolaco@gmail.com)
+
